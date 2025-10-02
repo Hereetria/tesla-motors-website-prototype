@@ -6,7 +6,7 @@
 
 This project is a **static landing page** designed to replicate the look and feel of **Tesla Motors' website** using only **basic HTML and CSS**.  
 It focuses on layout, structure, and responsive design principles without the use of any frameworks or JavaScript.  
-> 📌 **Archived** — This project is no longer being updated. It’s kept as part of my **learning history** and also serves as a **reference/template** for future projects I may revisit.
+> 📦 **Archived** — This project is no longer being updated. It’s kept as part of my **learning history** and also serves as a **reference/template** for future projects I may revisit.
 
 <br>
 
