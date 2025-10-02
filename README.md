@@ -16,8 +16,8 @@ Shown below in order:
 
 
 <p align="center">
-  <img src="./public/screenshots/landing.png" width="32%">
-  <img src="./public/screenshots/section.png" width="32%">
+  <img src="./docs/screenshots/landing.png" width="32%">
+  <img src="./docs/screenshots/section.png" width="32%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
 </p>
 
