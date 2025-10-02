@@ -10,6 +10,19 @@ It focuses on layout, structure, and responsive design principles without the us
 
 <br>
 
+## 🖼️ Screenshots
+Shown below in order:  
+**1. Landing** · **2. Section**
+
+
+<p align="center">
+  <img src="./public/screenshots/landing.png" width="32%">
+  <img src="./public/screenshots/section.png" width="32%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
+</p>
+
+<br>
+
 ## 🧰 Tech Stack
 
 <p>
