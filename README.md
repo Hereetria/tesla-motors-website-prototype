@@ -1,4 +1,4 @@
-# 🚗 Tesla Motors Website Prototype — Static Design Prototype (Archived)
+# 🚗 Tesla Motors Website Prototype — Static Design Prototype • (Archived)
 
 <br>
 
